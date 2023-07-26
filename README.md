@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-<img src="./assets/banner.gif"/>
+<img src="C:\Users\DELL\Desktop"/>
 
 ---
 
