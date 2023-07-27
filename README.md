@@ -1,7 +1,7 @@
 ### Hi there 👋
  
-<img src="https://images.app.goo.gl/MP12AjGiU2pwnPqg6" alt="JASHU"/>
-
+<img src="[https://images.app.goo.gl/MP12AjGiU2pwnPqg6](https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png)" alt="JASHU"/>
+ 
 ---
 
 <br>
