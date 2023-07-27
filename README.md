@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm JASHWANTH DASARI</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 ![DAM](https://github.com/dasarijashwanth/dasarijashwanth/assets/86874559/7071f30e-6667-4762-b36c-2d8ab32f4d07)
  
 ---
@@ -29,3 +31,6 @@
 
 
 
+
+
+ 
