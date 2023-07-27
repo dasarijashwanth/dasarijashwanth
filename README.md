@@ -1,6 +1,5 @@
 ### Hi there 👋
- 
-<img src="[https://images.app.goo.gl/MP12AjGiU2pwnPqg6](https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png)" alt="JASHU"/>
+![DAM](https://github.com/dasarijashwanth/dasarijashwanth/assets/86874559/7071f30e-6667-4762-b36c-2d8ab32f4d07)
  
 ---
 
