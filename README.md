@@ -1,3 +1,12 @@
+![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
+<div style="text-align: right">
+</div>
+
+<img src="./assets/cover.gif" alt="Cover">
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=fantasy&color=00ffd2&size=25&center=true&vCenter=true&lines=Blogger+✍️;⛓️+GATE+2023+AIR+-+3361+🏆"alt="Currently Learning Solidity">
+</p>
 <h1 align="center">Hi 👋, I'm JASHWANTH DASARI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
