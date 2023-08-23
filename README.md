@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm JASHWANTH DASARI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
 
 ![DAM](https://github.com/dasarijashwanth/dasarijashwanth/assets/86874559/7071f30e-6667-4762-b36c-2d8ab32f4d07)
- 
----
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dasarijashwanth)         [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jashwanthdasari)          [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dasarijashwant4) 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dasarijashwanth143) 
@@ -27,14 +26,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=dasarijashwanth&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dasarijashwanth&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dasarijashwanth&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dasarijashwanth&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
 [![](https://visitcount.itsvg.in/api?id=dasarijashwanth&icon=7&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
