@@ -1,5 +1,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=cursive&color=ff0000&size=30&center=true&vCenter=true&lines=Blogger+✍️;Techie+💻;GATE+2023+AIR+-+3361+🏆"alt="Currently Learning Solidity"> </p>
 <h1 align="center">Hi <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm JASHWANTH DASARI <img style="vertical-align: center" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
@@ -45,13 +44,6 @@
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br><details><summary align="left"> </samp></summary><p align ="center"> Refresh page to load New joke</p></details>
-</div>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
-<br></div>
-
-
 <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
