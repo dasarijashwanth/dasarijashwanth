@@ -39,8 +39,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1100px">
 [![](https://visitcount.itsvg.in/api?id=dasarijashwanth&icon=7&color=8)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Dasarijashwanth) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Dasarijashwanth) 
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br><details><summary align="left"> </samp></summary><p align ="center"> Refresh page to load New joke</p></details>
