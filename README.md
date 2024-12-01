@@ -3,6 +3,7 @@
 <img  src="https://readme-typing-svg.herokuapp.com?font=cursive&color=ff0000&size=30&center=true&vCenter=true&lines=Florida+Atlantic+UNI;Data+Science+📊;GATE+2023+AIR+-+3361+🏆;Data+Analyst;Blogger+✍️;Techie+💻;"alt="Currently Learning Solidity"> </p>
 <h1 align="center">Hi <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm JASHWANTH DASARI <img style="vertical-align: center" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
   <img align="center" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+ 🇮🇳
 </h1>  
 <img  src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1100px">
 
