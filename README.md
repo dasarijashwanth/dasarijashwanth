@@ -76,3 +76,10 @@
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
      ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dasarijashwanth&theme=dracula)
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayankchaudhary26&theme=highcontrast&background=0F0943)](https://git.io/streak-stats) -->  
+
+## 💼 **Let’s Collaborate**
+I’m actively seeking opportunities in **data analysis** and **business analysis** where I can apply my skills to solve real-world problems.
+
+📫 Reach me at: **priyadarshinijain72@gmail.com**
+
+---
