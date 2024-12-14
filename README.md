@@ -80,6 +80,6 @@
 ## 💼 **Let’s Collaborate**
 I’m actively seeking opportunities in **data analysis** and **business analysis** where I can apply my skills to solve real-world problems.
 
-📫 Reach me at: [Email Me](mailto:jashwanthdasari143@gmail.com)
+📫 Reach me at: [**jashwanthdasari143@gmail.com**](mailto:jashwanthdasari143@gmail.com)
 
 ---
