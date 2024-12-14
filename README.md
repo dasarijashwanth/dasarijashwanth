@@ -78,7 +78,7 @@
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayankchaudhary26&theme=highcontrast&background=0F0943)](https://git.io/streak-stats) -->  
 
 ## 💼 **Let’s Collaborate**
-I’m actively seeking opportunities in **Fata analysts** , **Data Engineer** and **Business analysts** where I can apply my skills to solve real-world problems.
+I’m actively seeking opportunities in **Data analysts** , **Data Engineer** and **Business analysts** where I can apply my skills to solve real-world problems.
 
 📫 Reach me at: [**jashwanthdasari143@gmail.com**](mailto:jashwanthdasari143@gmail.com)
 
