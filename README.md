@@ -1,5 +1,3 @@
- ![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
-
  [![](https://visitcount.itsvg.in/api?id=dasarijashwanth&icon=7&color=8)](https://visitcount.itsvg.in)
 <p align="center"> 
 <img  src="https://readme-typing-svg.herokuapp.com?font=cursive&color=ff0000&size=30&center=true&vCenter=true&lines=Florida+Atlantic+UNI;Data+Science+📊;GATE+2023+AIR+-+3361+🏆;Data+Analyst;Blogger+✍️;Techie+💻;"alt="Currently Learning Solidity"> </p>
@@ -50,6 +48,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1100px">
 [![](https://visitcount.itsvg.in/api?id=dasarijashwanth&icon=7&color=8)](https://visitcount.itsvg.in)
 
+ ![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Dasarijashwanth) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JASHWANTHDASARI143) 
 
