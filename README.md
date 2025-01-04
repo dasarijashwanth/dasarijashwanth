@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=dasarijashwanth&label=Profile%2 0Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in
+[![](https://visitcount.itsvg.in/api?id=dasarijashwanth&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in
 
 <p align="center"> 
 <img  src="https://readme-typing-svg.herokuapp.com?font=cursive&color=ff0000&size=30&center=true&vCenter=true&lines=Florida+Atlantic+UNI;Data+Science+📊;GATE+2023+AIR+-+3361+🏆;Data+Analyst;Blogger+✍️;Techie+💻;"alt="Currently Learning Solidity"> </p>
