@@ -37,7 +37,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-%234E9FD1.svg?style=for-the-badge&logo=sql&logoColor=white)
+![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-%234E9FD1.svg?style=for-the-badge&logo=sql&logoColor=white)![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFB7B2.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%2300C9A7.svg?style=for-the-badge&logo=ollama&logoColor=white)
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1100px">
 
