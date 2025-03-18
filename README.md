@@ -86,6 +86,12 @@
      ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dasarijashwanth&theme=dracula)
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayankchaudhary26&theme=highcontrast&background=0F0943)](https://git.io/streak-stats) -->  
 
+<h3 align="center">👀 Total Profile Visits 👀</h3>
+<p align="center">
+	<img src="https://count.getloli.com/get/@dasarijashwanth?theme=gelbooru-h"> <br/>
+</p>
+
+
 ## 💼 **Let’s Collaborate**
 I’m actively seeking opportunities in **Data analysts** , **Data Engineer** and **Business analysts** where I can apply my skills to solve real-world problems.
 
