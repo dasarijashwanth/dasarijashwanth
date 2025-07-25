@@ -1,8 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=dasarijashwanth&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=dasarijashwanth&style=for-the-badge)
 <p align="center"> 
-<img  src="https://readme-typing-svg.herokuapp.com?font=cursive&color=ff0000&size=30&center=true&vCenter=true&lines=Florida+Atlantic+UNI;Data+Science+📊;GATE+2023+AIR+-+3361+🏆;Data+Analyst;Blogger+✍️;Techie+💻;"alt="Currently Learning Solidity"> </p>
+<img  src="https://readme-typing-svg.herokuapp.com?font=cursive&color=ff0000&size=30&center=true&vCenter=true&lines=Florida+Atlantic+UNI;Data+Science+📊; GATE+2023+AIR+-+3361+🏆;Data+Analyst;Blogger+✍️;Techie+💻;"alt="Currently Learning Solidity"> </p>
 <h1 align="center">Hi 👋 I'm JASHWANTH DASARI <img style="vertical-align: center" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
+  
   <img align="center" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
  
 </h1>  
