@@ -68,14 +68,7 @@
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
 <br>
-
-![1688216737782](https://github.com/dasarijashwanth/dasarijashwanth/assets/86874559/d2d34c47-734f-44b8-8ba4-bfcdb728c8b8)  
-
-<br>
-<br>
-
 <img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
-
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
@@ -88,6 +81,12 @@
 
 ## 💼 **Let’s Collaborate**
 I’m actively seeking opportunities in **Data analysts** , **Data Engineer** and **Business analysts** where I can apply my skills to solve real-world problems.
+
+### Show some ❤️ by starring some of the repositories!
+</div>
+
+<img height="130" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 
 [![](https://visitcount.itsvg.in/api?id=dasarijashwanth&icon=7&color=8)](https://visitcount.itsvg.in)
 
