@@ -67,11 +67,7 @@
 <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
-<br>
 
-![1688216737782](https://github.com/dasarijashwanth/dasarijashwanth/assets/86874559/d2d34c47-734f-44b8-8ba4-bfcdb728c8b8)  
-
-<br>
 <br>
 
 <img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
